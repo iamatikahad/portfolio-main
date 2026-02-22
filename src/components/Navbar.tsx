@@ -70,7 +70,7 @@ export function Navbar() {
                 </ul>
 
                 <a
-                    href="https://forms.gle/AwQcmw97KT9dTj4R9"
+                    href="https://forms.gle/F9VMEYGJ99J779Ef8"
                     target="_blank"
                     rel="noreferrer"
                     className="md:hidden flex h-10 px-4 items-center justify-center rounded-full bg-white text-black text-xs font-bold uppercase tracking-widest"
